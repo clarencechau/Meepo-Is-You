@@ -21,8 +21,12 @@ For example, walls in the game are naturally static, and can not be pushed. Push
 
 ## Instructions
 
-* Use the arrow keys to move your current character
+* Clone project locally, and install pygame
+* Run game.py -> A new window should launch
+* Use the arrow keys to move Meepo
 * Ctrl + Z to undo your last move
-  * Can be done as many times as the user
-  * Must use when the YOU block isn't in a combination, as the game can't assign the user to an object
+  * Can be done as many times as the user wants to
+  * Must use undo function when the YOU block isn't in a combination, as the game can't assign the user to an object
   * Used a LIFO list to easily track and remove moves
+* The original map is a tutorial map for the user to get a hang of the controlls and rules
+* Maps can be imported or made very easily, can follow the guidelines of the tutorial map
