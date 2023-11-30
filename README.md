@@ -4,7 +4,7 @@
 
 ## Game Description
 
-Meepo is You is a project I did in university, based on popular puzzle game Baba is You. The goal of the game is to get the character (Meepo) to the red finish flag, by going through different obstacles and rooms, but with a catch. Everything object in the game is naturally static and immobile: from the walls, to the finish flag, to even the character being played. So how do we interact with the character and objects then? Command blocks. Every map is filled with three different types of command blocks with words inside them: object word blocks, IS blocks, and verb blocks. Moving one of each of these blocks in a row, will affect the functionality of the object in the game.
+Meepo is You is a project in Python I did in university, based on popular puzzle game Baba is You. The goal of the game is to get the character (Meepo) to the red finish flag, by going through different obstacles and rooms, but with a catch. Everything object in the game is naturally static and immobile: from the walls, to the finish flag, to even the character being played. So how do we interact with the character and objects then? Command blocks. Every map is filled with three different types of command blocks with words inside them: object word blocks, IS blocks, and verb blocks. Moving one of each of these blocks in a row, will affect the functionality of the object in the game.
 
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github.com/clarencechau/Meepo-Is-You/blob/main/readmepictures/wallispush.png?raw=true" width="200" height="200" />
