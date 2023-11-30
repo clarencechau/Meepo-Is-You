@@ -13,11 +13,21 @@ Meepo is You is a project in Python I did in university, based on popular puzzle
 
 For example, walls in the game are naturally static, and can not be pushed. Pushing command blocks to make a combination of WALL, IS, and PUSH, will make all the walls in the game pushable, allowing Meepo to get closer to the finish flag. This is one of many combinations the user can play around with in the game, ranging from pushing objects, stopping objects, to even losing the game when touching an object. Below are all the available command blocks available in the game.
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; align-items: center;">
+  <div style="text-align: center; margin-right: 20px;">
+    <h3>Object Word Blocks<h3>
     <img src="https://github.com/clarencechau/Meepo-Is-You/blob/main/readmepictures/objects.png?raw=true" width="200" height="70" />
+  </div>
+  <div style="text-align: center; margin-right: 20px;">
+    <h3>IS Blocks<h3>
     <img src="https://github.com/clarencechau/Meepo-Is-You/blob/main/readmepictures/isblock.png?raw=true" width="100" height="70" />
+  </div>
+  <div style="text-align: center; margin-right: 20px;">
+    <h3>Verb Blocks<h3>
     <img src="https://github.com/clarencechau/Meepo-Is-You/blob/main/readmepictures/verbblock.png?raw=true" width="200" height="70" />
+  </div>
 </div>
+
 
 ## Instructions
 
