@@ -1,5 +1,7 @@
 # Meepo is You
 
+<img src="https://github.com/clarencechau/Meepo-Is-You/blob/main/readmepictures/game.png?raw=true" width="500" height="500" />
+
 ## Game Description
 
 Meepo is You is a project I did in university, based on popular puzzle game Baba is You. The goal of the game is to get the character (Meepo) to the red finish flag, by going through different obstacles and rooms, but with a catch. Everything object in the game is naturally static and immobile: from the walls, to the finish flag, to even the character being played. So how do we interact with the character and objects then? Command blocks. Every map is filled with three different types of command blocks with words inside them: object word blocks, IS blocks, and verb blocks. Moving one of each of these blocks in a row, will affect the functionality of the object in the game.
@@ -21,5 +23,6 @@ For example, walls in the game are naturally static, and can not be pushed. Push
 
 * Use the arrow keys to move your current character
 * Ctrl + Z to undo your last move
-  * Can be done as many times as the user 
+  * Can be done as many times as the user
+  * Must use when the YOU block isn't in a combination, as the game can't assign the user to an object
   * Used a LIFO list to easily track and remove moves
